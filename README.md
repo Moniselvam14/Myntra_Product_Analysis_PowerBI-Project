@@ -14,7 +14,7 @@ I undertook a comprehensive project focused on Myntra's fashion clothing, utiliz
 
 3. **Insightful Visualizations:** To bring the data to life, I created a series of compelling visualizations that provided a comprehensive overview of Myntra's fashion landscape.
 
-**Key visualizations included****:**
+**Key visualizations included:**
 
 -Number of Brands by Category: Visualizing brand distribution to identify market leaders.
 -Number of Products by Category: Analyzing product variety across different categories.
